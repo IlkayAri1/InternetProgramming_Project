@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #c61f83; /* Turuncu */
+  color: #326bef; /* Turuncu */
 }
 
 main {
@@ -224,7 +224,7 @@ footer {
 .contact-form h2,
 .contact-info h2 {
   margin-bottom: 20px;
-  color: #c61f83; /* Yeşil */
+  color: #326bef; /* Yeşil */
 }
 
 .contact-form label {
@@ -248,7 +248,7 @@ footer {
 
 .contact-form button {
   width: 100%;
-  background-color: #c61f83; /* Yeşil */
+  background-color: #326bef; /* Yeşil */
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -277,7 +277,7 @@ footer {
 }
 
 .contact-info ul li a {
-  color: #c61f83; /* Yeşil */
+  color: #326bef; /* Yeşil */
   text-decoration: none;
 }
 
